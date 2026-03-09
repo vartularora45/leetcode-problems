@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/vartularora45/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 ## Depth-First Search
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vartularora45/leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
