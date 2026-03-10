@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vartularora45/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vartularora45/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/vartularora45/leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
 <!---LeetCode Topics End-->
