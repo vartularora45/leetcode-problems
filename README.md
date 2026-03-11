@@ -110,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vartularora45/leetcode-problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/vartularora45/leetcode-problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
