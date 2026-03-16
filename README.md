@@ -28,15 +28,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vartularora45/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/vartularora45/leetcode-problems/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vartularora45/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/vartularora45/leetcode-problems/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vartularora45/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/vartularora45/leetcode-problems/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/vartularora45/leetcode-problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/vartularora45/leetcode-problems/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
