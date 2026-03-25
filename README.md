@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/vartularora45/leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/vartularora45/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vartularora45/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/vartularora45/leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vartularora45/leetcode-problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/vartularora45/leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
