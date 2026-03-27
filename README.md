@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vartularora45/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/vartularora45/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vartularora45/leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Hash Table
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/vartularora45/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vartularora45/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/vartularora45/leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +155,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
