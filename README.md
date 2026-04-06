@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/vartularora45/leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Depth-First Search
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/vartularora45/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
