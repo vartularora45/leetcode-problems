@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/vartularora45/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/vartularora45/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vartularora45/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/vartularora45/leetcode-problems/tree/main/0118-pascals-triangle/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vartularora45/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/vartularora45/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/vartularora45/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
@@ -175,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vartularora45/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vartularora45/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
