@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/vartularora45/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0542-01-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/0542-01-matrix/) | Medium |
+| [0575-distribute-candies](https://github.com/vartularora45/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/vartularora45/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/vartularora45/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0575-distribute-candies](https://github.com/vartularora45/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
