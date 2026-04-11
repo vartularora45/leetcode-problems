@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/vartularora45/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/vartularora45/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/vartularora45/leetcode-problems/tree/main/0289-game-of-life/) | Medium |
 | [0542-01-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/0542-01-matrix/) | Medium |
 | [0575-distribute-candies](https://github.com/vartularora45/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vartularora45/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0289-game-of-life](https://github.com/vartularora45/leetcode-problems/tree/main/0289-game-of-life/) | Medium |
 | [0542-01-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/vartularora45/leetcode-problems/tree/main/0289-game-of-life/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/vartularora45/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
 ## Backtracking
