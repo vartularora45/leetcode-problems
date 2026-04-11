@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/vartularora45/leetcode-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/vartularora45/leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/vartularora45/leetcode-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vartularora45/leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
