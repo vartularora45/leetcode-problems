@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/vartularora45/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/vartularora45/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0289-game-of-life](https://github.com/vartularora45/leetcode-problems/tree/main/0289-game-of-life/) | Medium |
+| [0477-total-hamming-distance](https://github.com/vartularora45/leetcode-problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0542-01-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/0542-01-matrix/) | Medium |
 | [0575-distribute-candies](https://github.com/vartularora45/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vartularora45/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0477-total-hamming-distance](https://github.com/vartularora45/leetcode-problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0509-fibonacci-number](https://github.com/vartularora45/leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Recursion
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0477-total-hamming-distance](https://github.com/vartularora45/leetcode-problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/vartularora45/leetcode-problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
