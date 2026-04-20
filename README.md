@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/vartularora45/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/vartularora45/leetcode-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/vartularora45/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vartularora45/leetcode-problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vartularora45/leetcode-problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/vartularora45/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2498-frog-jump-ii](https://github.com/vartularora45/leetcode-problems/tree/main/2498-frog-jump-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/vartularora45/leetcode-problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Bit Manipulation
