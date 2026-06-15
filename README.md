@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/vartularora45/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/vartularora45/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vartularora45/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vartularora45/leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vartularora45/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/vartularora45/leetcode-problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vartularora45/leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
