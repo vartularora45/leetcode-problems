@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/vartularora45/leetcode-problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0542-01-matrix](https://github.com/vartularora45/leetcode-problems/tree/main/0542-01-matrix/) | Medium |
 | [0575-distribute-candies](https://github.com/vartularora45/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/vartularora45/leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vartularora45/leetcode-problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/vartularora45/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/vartularora45/leetcode-problems/tree/main/0733-flood-fill/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vartularora45/leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vartularora45/leetcode-problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vartularora45/leetcode-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
