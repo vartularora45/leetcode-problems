@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/vartularora45/leetcode-problems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/vartularora45/leetcode-problems/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/vartularora45/leetcode-problems/tree/main/0577-employee-bonus/) | Easy |
 | [1280-students-and-examinations](https://github.com/vartularora45/leetcode-problems/tree/main/1280-students-and-examinations/) | Easy |
